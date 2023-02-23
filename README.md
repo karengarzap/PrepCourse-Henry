@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del M2 del Prep Course de Henry
+Karen Garza
+Este proyecto es una prueba sobre como crear un repositorio y clonarlo a mi computadora
